@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="300"/>
 </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh1ZjM0d2I0OGNmbHk1Yjh5OGE2bG9hM2ZmbnN2NHdtMnp1d3dnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="300"/>
+</div>
+<div id="header" align="center">
+  <img src="[https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZvMDJ4dXp3cTdrenZvMzB6bHRvaTVscGQ5czdpemViNDFtOHkxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif)" width="300"/>
+</div>
 
 <!--
 **AndreyChuravskiy/AndreyChuravskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
