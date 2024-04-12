@@ -1,4 +1,4 @@
-<div>
+<div id="header" align="center">
   <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="300"/>
 </div>
 
