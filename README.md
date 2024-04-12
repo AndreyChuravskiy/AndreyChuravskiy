@@ -1,7 +1,7 @@
-### Hi there 👋
 <div>
   <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="300"/>
 </div>
+
 <!--
 **AndreyChuravskiy/AndreyChuravskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
