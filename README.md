@@ -1,17 +1,20 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="300"/>
 </div>
 <h1 align="center">
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-### My skills:
 
-#### Programming languages:
+## My skills:
+
+#### Languages:
 - Java
 - C++
 - C
 - Python
+
+---
 
 #### Web Development Frameworks :
 - Spring Boot
@@ -21,6 +24,8 @@
 - Spring Security
 - Spring Web MVC
 - Hibernate
+
+---
 
 #### Tools and Technologies :
 - Linux
@@ -39,7 +44,9 @@
 - JavaFX
 - Swing
 
-#### Languages spoken
+---
+
+### Languages spoken
 - Russian
 - English
 - Belarussian
