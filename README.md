@@ -7,7 +7,7 @@
 </h1>
 
 <h1 style="font-family: Arial, sans-serif; font-size: 28px; font-weight: bold; color: #333;">
-   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk3anIyOXhqbnRnd3ZvMXFxYW9sM2kyYW0weGJiMGpncWI4YWNnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" width="30px"/>
+   <img src = "https://media1.tenor.com/m/CsCtNHFcjnIAAAAC/nova-cartoon.gif" width="30px"/>
   My Skills
 </h1>
 
