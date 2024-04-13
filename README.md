@@ -10,7 +10,7 @@
   🚀My Skills
 </h1>
 
-#### Languages:
+#### Programming languages:
 - Java
 - C++
 - C
