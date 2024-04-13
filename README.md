@@ -7,8 +7,7 @@
 </h1>
 
 <h1 style="font-family: Arial, sans-serif; font-size: 28px; font-weight: bold; color: #333;">
-   <img src = "https://media1.tenor.com/m/CsCtNHFcjnIAAAAC/nova-cartoon.gif" width="30px"/>
-  My Skills
+  🚀My Skills
 </h1>
 
 #### Languages:
