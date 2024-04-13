@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="500"/>
 </div>
 <h1 align="center">
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-## My skills:
+### My skills:
 
-#### Languages:
+#### Programming languages:
 - Java
 - C++
 - C
@@ -39,7 +39,7 @@
 - JavaFX
 - Swing
 
-### Languages spoken
+#### Languages spoken
 - Russian
 - English
 - Belarussian
