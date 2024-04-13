@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### My skills:
+<h1 style="font-family: Arial, sans-serif; font-size: 28px; font-weight: bold; color: #333;">My Skills</h1>
 
 #### Languages:
 - Java
