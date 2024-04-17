@@ -35,7 +35,6 @@
 - Git
 - Intelij IDEA
 - Maven
-- Gradle
 - Docker
 - PostgreSQl
 - Hikari
